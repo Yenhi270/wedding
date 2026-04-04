@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ten-ban.vercel.app/sitemap.xml
